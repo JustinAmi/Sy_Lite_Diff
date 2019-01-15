@@ -1,9 +1,9 @@
-Building Litecoin
+Building Sycoin
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Sycoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Sycoin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building sycoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Sycoin.
